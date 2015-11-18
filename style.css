@@ -24,3 +24,15 @@ h1:hover{
 	background-color:black;
 	opacity:0.6;
 }
+
+.photo{
+	float:right;
+	box-shadow: 6px 6px 6px blue;
+	width:200px;
+	height:200px
+}
+
+.presentation{
+	 clear: both;
+	 float:left;
+}
