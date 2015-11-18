@@ -36,3 +36,33 @@ h1:hover{
 	 clear: both;
 	 float:left;
 }
+
+
+#experiences{
+	float:left;
+	width:33%
+}
+
+#competences{
+	float: left;
+	width:33%;
+	margin:auto;
+}
+aside{
+	float: left;
+	width:33%
+}
+
+
+#gauche{
+	width:10%;
+	background-color:black;
+	float:left;
+	border-radius:10px;
+	height:650px
+}
+
+#droite{
+	width:90%;
+	float:right
+}
